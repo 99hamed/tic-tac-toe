@@ -1,0 +1,3 @@
+hamed   wins: 1   loses: 0   draw: 0
+ali   wins: 0   loses: 1   draw: 0
+------------------------------------
